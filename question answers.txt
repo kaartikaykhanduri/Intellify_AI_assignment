@@ -1,0 +1,29 @@
+Question 1: What is the purpose of the Big Mac Index?
+Answer 1: to calculate an implied exchange rate between two currencies
+
+Question 2: Who introduced the Big Mac Index?
+Answer 2: Pam Woodall
+
+Question 3: What is the underlying theory of the Big Mac Index?
+Answer 3: PPP
+
+Question 4: How does the Big Mac Index compare prices worldwide?
+Answer 4: the relative price worldwide to purchase the Big Mac, a hamburger sold at McDonald's restaurants
+
+Question 5: What does the Big Mac Index measure?
+Answer 5: purchasing power parity
+
+Question 6: What is the significance of the Big Mac Index?
+Answer 6: provides a "reasonable measure of real-world purchasing power"
+
+Question 7: What concept does the Big Mac Index illustrate?
+Answer 7: purchasing power parity
+
+Question 8: What does the Big Mac Index compare?
+Answer 8: relative price worldwide to purchase the Big Mac
+
+Question 9: How is the exchange rate between two currencies related to the Big Mac Index?
+Answer 9: equalize the prices charged for an identical basket of goods
+
+Question 10: What term was derived from the Big Mac Index?
+Answer 10: burgernomics
